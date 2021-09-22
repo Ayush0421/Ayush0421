@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayush0421
 - 👀 I’m interested in developing and working on modern technologies with fellow developers
-     and create something which can add value in the society.
-- 🌱 I’m currently learning Web Technologies.
+     and create something which can make impact in the developer community.
+- 🌱 I have profound interest in Web Technologies.
 - 💞️ I’m looking to collaborate with web developers in the community.
 
 
